@@ -60,6 +60,36 @@ Reveal which **products** are most favored during **specific occasions**.
 
 ---
 
+##📁 Project Structure
+Here is the  project structure : 
+
+![project structure diagram](https://github.com/user-attachments/assets/77e9caaf-990f-40a0-8694-6c2e64bb0ee3)
+
+---
+
+📊 Dataset Overview
+This repository contains three main CSV files that form a relational database structure:
+
+🛍️ products.csv (https://github.com/sino-datagenius/Ferns-and-Petals-Sales-Analysis-using-Excel/blob/main/products.csv)
+👥 customers.csv (https://github.com/sino-datagenius/Ferns-and-Petals-Sales-Analysis-using-Excel/blob/main/customers.csv)
+📋 orders.csv (https://github.com/sino-datagenius/Ferns-and-Petals-Sales-Analysis-using-Excel/blob/main/orders.csv)
+
+🗂️ Data Dictionary
+For detailed information about each column in the datasets, see our comprehensive Data Dictionary ( https://github.com/sino-datagenius/Ferns-and-Petals-Sales-Analysis-using-Excel/blob/main/data_dictionary.md).
+
+Quick Reference:
+
+FileKey ColumnsPurposeproducts.csvProduct_ID, Product_Name, Category, Price, OccasionProduct catalog and pricingcustomers.csvCustomer_ID, Name, City, Contact_Number, GenderCustomer profilesorders.csvOrder_ID, Customer_ID, Product_ID, Order_Date, LocationTransaction records
+
+🔄 Data Relationships
+
+customers.csv (Customer_ID) ──┐
+                              │
+                              ├─── orders.csv (Customer_ID, Product_ID)
+                              │
+products.csv (Product_ID) ────┘
+
+
 ## 📸 <span style="color:#00bcd4;">Dashboard Preview</span>
 
 👉 *(Add screenshots or a GIF of your dashboard here)*
