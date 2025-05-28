@@ -52,10 +52,10 @@ Reveal which **products** are most favored during **specific occasions**.
 
 ## 🛠️ <span style="color:#007bff;">Tools & Technologies Used</span>
 
-- **Power BI** for building the interactive dashboard
-- **SQL** for data querying and transformation
-- **Python (Pandas & Matplotlib)** for initial EDA & visualizations
-- **Excel** for data cleaning and validation
+- **Power Query Editor** for extract data and cleaning and transformation
+- **Power Pivot** for data modelling
+- **Pivat tables and measures** for data analysis
+- **Excel charts ** for data visualisation and Dashboard
 - **Git & GitHub** for version control and project showcase
 
 ---
