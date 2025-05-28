@@ -55,7 +55,7 @@ Reveal which **products** are most favored during **specific occasions**.
 - **Power Query Editor** for extract data and cleaning and transformation
 - **Power Pivot** for data modelling
 - **Pivat tables and measures** for data analysis
-- **Excel charts ** for data visualisation and Dashboard
+- **Excel charts** for data visualisation and Dashboard
 - **Git & GitHub** for version control and project showcase
 
 ---
