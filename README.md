@@ -3,7 +3,7 @@
 
 ---
 
-<img src="img/Ferns-And-Petals-1.webp" alt="Description of the image">
+![Screenshot 2025-06-24 025946](https://github.com/user-attachments/assets/0d183cfe-bcb2-4f0d-aba2-b03fd47ea9f3)
 
 ---
 ##  <span style="color:#20c997;">Project Overview</span>
@@ -48,7 +48,7 @@ The ultimate goal is to help FNP make data-driven decisions to enhance customer 
 
 Here is the  project structure : 
 
-<img src="img/project structure diagram.png" alt="Description of the image">
+![project structure diagram](https://github.com/user-attachments/assets/44c5773c-ac78-4109-ba95-9ebc38ae6b10)
 
 ---
 
@@ -83,7 +83,7 @@ For detailed information about each column in the datasets, see our comprehensiv
 
 <br>
 
-<img src="img/Power Query.png" alt="Description of image">
+![Power Query](https://github.com/user-attachments/assets/c8135ec3-bf5d-4f0d-8909-b87a018f8d72)
 
 <br>
 
@@ -93,7 +93,8 @@ For detailed information about each column in the datasets, see our comprehensiv
 - Loaded all the data successfully as a table and use it for data modelling
 <br>
 
-<img src="img/Load Data.png" alt="Data loading page Excel as Tables">
+![Load Data](https://github.com/user-attachments/assets/9ffa10b7-7af7-4360-b8e2-dad05ac61ed8)
+
 
 <br>
 
@@ -103,7 +104,7 @@ If we create a power pivot right away then we will not get the right value as al
 
 <br>
 
-<img src="img/relations.png" alt="data diagram">
+![relations](https://github.com/user-attachments/assets/e405526e-01af-4f1d-b58d-2f9777e30ce0)
 
 <br>
 
@@ -132,12 +133,15 @@ Revenue =Orders[Price (INR)]*Orders[Quantity]
 
 <br>
 
-<img src="img/power pivot.png" alt="power pivot tables">
+![power pivot](https://github.com/user-attachments/assets/a56b519e-3fe2-4604-b1aa-a037606057b8)
+
 <br>
 
 ##  <span style="color:#20c997;">Dash Board :</span>
 <br>
-<img src="img/Dash Board.png" alt="Dash Baord image">
+
+![Dash Board](https://github.com/user-attachments/assets/ee33932b-58c9-4ab6-8671-8ef077d7f778)
+
 <br>
 <br>
 
@@ -145,7 +149,9 @@ Revenue =Orders[Price (INR)]*Orders[Quantity]
 ---
 
 <br>
-<img src="img/KPIS.png" alt="Kpis">
+
+![KPIS](https://github.com/user-attachments/assets/49a91dc2-5c3f-4bde-bf8c-17306bf298a2)
+
 <br>
 
 ## <span style="color: #20c997;">🔍 Key Insight #1: Total Revenue Analysis</span>
@@ -179,7 +185,9 @@ Revenue =Orders[Price (INR)]*Orders[Quantity]
 
 
 <br>
-<img src="img/Correlation.png" alt="Kpis">
+
+![Correlation](https://github.com/user-attachments/assets/5df3deaa-80bf-4e21-a852-3f77ac501a53)
+
 <br>
 
 
@@ -205,7 +213,9 @@ Revenue =Orders[Price (INR)]*Orders[Quantity]
 
 
 <br>
-<img src="img/Revenue by month.png" alt="Kpis">
+
+![Revenue by month](https://github.com/user-attachments/assets/62ebf0a8-0672-4d6d-a159-1f2bc82a8f07)
+
 <br>
 
 ### <span style="color: #d63384;">**Performance Analysis**</span>
@@ -235,7 +245,9 @@ Revenue =Orders[Price (INR)]*Orders[Quantity]
 ## <span style="color: #20c997;">🔍 Key Insight #4: Top Products by Revenue</span>
 
 <br>
-<img src="img/Top 5 items.png" alt="Top  5 items ">| 
+
+![Top 5 items](https://github.com/user-attachments/assets/945cec2b-779c-44b1-89aa-a6866801f688)
+
 <br>
 
 
@@ -303,7 +315,9 @@ Revenue =Orders[Price (INR)]*Orders[Quantity]
 ## <span style="color: #20c997;">🔍 Key Insight #7: Top 10 Cities by Number of Orders</span>
 
 <br>
-<img src="img/Top 10 cities.png" alt="Top  5 items ">| 
+
+![Top 10 cities](https://github.com/user-attachments/assets/89118a12-ec29-406e-a5dc-1b3ed0db410d)
+| 
 <br>
 
 
@@ -339,9 +353,8 @@ Revenue =Orders[Price (INR)]*Orders[Quantity]
 ## <span style="color: #20c997;">🔍 Key Insight #8: Revenue vs Delivery Time</span>
 
 
-<br>
-<img src="img/Revenue by hour.png" alt="Top  5 items ">| 
-<br>
+![Top 5 items](https://github.com/user-attachments/assets/afc72572-61bd-4bf3-a131-76ef089500a0)
+
 
 ### <span style="color: #d63384;">**Operational Efficiency Analysis**</span>
 - **Correlation Coefficient: 0.003478174**
@@ -363,9 +376,8 @@ Revenue =Orders[Price (INR)]*Orders[Quantity]
 ## <span style="color: #20c997;">🔍 Key Insight #9: Revenue Comparison Between Occasions</span>
 
 
-<br>
-<img src="img/Revenue by Occasion.png" alt="Top  5 items ">| 
-<br>
+![Revenue by Occasion](https://github.com/user-attachments/assets/eb194209-fc8f-402a-b8c8-b666d9f77e4c)
+
 
 ### <span style="color: #d63384;">**Occasion-Based Revenue Analysis**</span>
 | **Occasion** | **Revenue** | **Market Share** |
@@ -393,9 +405,8 @@ Revenue =Orders[Price (INR)]*Orders[Quantity]
 
 ## <span style="color: #20c997;">🔍 Key Insight #10: Product Popularity by Occasion</span>
 
-<br>
-<img src="img/revenue by Category.png" alt="Top  5 items ">| 
-<br>
+![revenue by Category](https://github.com/user-attachments/assets/ec68092b-e98f-4db3-863a-437b4a792453)
+
 
 ### <span style="color: #d63384;">**Category Performance by Occasion**</span>
 - **Colors: ₹10,05,645.00 (28.5% of total revenue)**
